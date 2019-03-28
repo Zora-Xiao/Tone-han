@@ -1,0 +1,6 @@
+D:\RaykiteVSProject\PinYinHelper\PinYinHelper\bin\Release\PinYinHelper.dll
+D:\RaykiteVSProject\PinYinHelper\PinYinHelper\bin\Release\PinYinHelper.pdb
+D:\RaykiteVSProject\PinYinHelper\PinYinHelper\obj\Release\PinYinHelper.csprojAssemblyReference.cache
+D:\RaykiteVSProject\PinYinHelper\PinYinHelper\obj\Release\PinYinHelper.csproj.CoreCompileInputs.cache
+D:\RaykiteVSProject\PinYinHelper\PinYinHelper\obj\Release\PinYinHelper.dll
+D:\RaykiteVSProject\PinYinHelper\PinYinHelper\obj\Release\PinYinHelper.pdb

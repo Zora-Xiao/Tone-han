@@ -1,8 +1,0 @@
-D:\RaykiteVSProject\PinYinHelper\PinYinHelper\obj\Debug\PinYinHelper.csproj.CoreCompileInputs.cache
-D:\RaykiteVSProject\PinYinHelper\PinYinHelper\bin\Debug\PinYinHelper.dll
-D:\RaykiteVSProject\PinYinHelper\PinYinHelper\bin\Debug\PinYinHelper.pdb
-D:\RaykiteVSProject\PinYinHelper\PinYinHelper\obj\Debug\PinYinHelper.dll
-D:\RaykiteVSProject\PinYinHelper\PinYinHelper\obj\Debug\PinYinHelper.pdb
-D:\RaykiteVSProject\PinYinHelper\PinYinHelper\obj\Debug\PinYinHelper.Properties.Resources.resources
-D:\RaykiteVSProject\PinYinHelper\PinYinHelper\obj\Debug\PinYinHelper.csproj.GenerateResource.cache
-D:\RaykiteVSProject\PinYinHelper\PinYinHelper\obj\Debug\PinYinHelper.csprojAssemblyReference.cache
